@@ -1,0 +1,31 @@
+body {
+  background-color: #06495f;
+}
+
+body .top {
+  color: white;
+  font-size: xxx-large;
+}
+
+body .botom {
+  width: 100%;
+  -webkit-column-count: 3;
+          column-count: 3;
+}
+
+img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .cardd {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .cardd {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=style.css.map */

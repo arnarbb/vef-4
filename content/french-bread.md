@@ -1,8 +1,8 @@
 ---
-title: Faux French Bread
+title: MC-Burger
 date: 2019-04-17
 tags: Bread
-thumbnail: img/bread.jpg
+thumbnail: img/burger2.jpg
 summary: Not quite french bread which has great taste and stays fresh for longer.
 slug: french-bread
 ---

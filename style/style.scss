@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(6, 73, 95);
+   
+    .top{
+        color: white;
+        font-size: xxx-large;
+    }
+    
+    .botom{
+        width: 100%;
+        column-count: 3;
+    }
+}
+
+
+
+
+
+img {
+    width: 100%;
+       
+}
+@media only screen and (max-width: 1000px) {
+    .cardd {
+      width: 50%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .cardd {
+      width: 100%;
+    }
+  }
