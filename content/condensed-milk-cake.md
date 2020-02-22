@@ -1,28 +1,37 @@
 ---
-title: Sweetened Condensed Milk Cake
+title: crystal meth
 date: 2019-04-15
-tags: Cake, Sweet
+tags: rock hard
 thumbnail: img/crystal.jpg
-summary: A sweet and soft cake which is very easy to prepare and tastes great with a cup of tea.
-slug: condensed-milk-cake
+summary: cristal
+slug: criistal
 ---
 
-__Ingredients__
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Methamphetamine.png/345px-Methamphetamine.png)
 
-+ 1 can (395g) sweetened condensed milk
-+ 4 eggs
-+ 120gm all purpose flour
-+ 1/2 tblsp baking powder
-+ 50gm unsalted butter, melted and cooled
-+ Icing sugar for dusting
+__áhrif__
 
-__Preparation__
++ Loss of appetite
++ Increased heart rate, blood pressure, body temperature
++ Dilation of pupils
++ Disturbed sleep patterns
++ Nausea
++ Panic and psychosis
++ svo meira
 
-Preheat oven to 180C. Generously butter a 22cm ring cake pan.
- 
-Place all ingredients in a large bowl and mix well. Pour the batter into prepared pan and bake for 20 minutes or until a skewer comes out clean. 
- 
-Remove from oven and place on a wire rack to cool completely before unmolding.
- 
-Dust with icing sugar before serving.
+__efnasambönd__
+
++ Ephedrine/pseudoephedrine
++ Acetone
++ Anhydrous ammonia
++ Hydrochloric acid (HCL)
++ Iodine
++ Lithium
++ Phosphorus
++ Lye (sodium hydroxide)
++ Toluene
+
+
+
+
 

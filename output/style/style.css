@@ -1,6 +1,5 @@
 body {
   background-color: #06495f;
-  
 }
 
 body .top {
@@ -12,6 +11,10 @@ body .botom {
   width: 100%;
   -webkit-column-count: 3;
           column-count: 3;
+}
+
+img {
+  width: 50%;
 }
 
 img {

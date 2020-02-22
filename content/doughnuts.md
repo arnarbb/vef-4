@@ -7,16 +7,26 @@ summary: Old fashioned cocaina.
 slug: cocaina
 ---
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kokain_-_Cocaine.svg/1200px-Kokain_-_Cocaine.svg.png)
+
+__áhrif__
+
++ immediate rush, feelings of euphoria
++ feelings of invincibility
++ a sense of wellbeing
++ increased talkativeness or quiet contemplation and rapture
++ increased confidence and a feeling of invincibility
++ feelings of great physical strength and mental capacity
++ margt meira
+
 __efnasambönd__
 
-+ 4 cups bread flour
-+ 2 tblspoon sugar
-+ 1 tblspoon yeast
-+ 1 tsp salt
-+ 2 tblspoon milk powder
-+ Water as req.
-+ Castor sugar to coat doughnuts
-
-__Preparation__
-
-Mix all ingredients and knead until a slightly tacky dough form. Cover and let rise until doubled in size. Roll into half an inch-thick rectangle. Cut small rounds. Let the rounds of dough rise for 10-15 minutes then fry in medium hot oil. Roll in castor sugar and serve straight away.
++ Ephedrine/pseudoephedrine
++ Acetone
++ Anhydrous ammonia
++ Hydrochloric acid (HCL)
++ Iodine
++ Lithium
++ Phosphorus
++ Lye (sodium hydroxide)
++ Toluene
