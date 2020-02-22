@@ -2,10 +2,11 @@
 title: MC-Burger
 date: 2019-04-17
 tags: Bread
-thumbnail: img/burger2.jpg
+thumbnail: img/mushrooms.jpg
 summary: Not quite french bread which has great taste and stays fresh for longer.
-slug: french-bread
+slug: french-bread.
 ---
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Psilocybn.svg/1200px-Psilocybn.svg.png"logo tilte text1")
 
 __Ingredients__
 

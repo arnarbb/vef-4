@@ -1,13 +1,13 @@
 ---
-title: Old Fashioned Doughnuts
+title: Old Fashioned cocina
 date: 2019-04-14
-tags: Sweet
-thumbnail: img/doughnuts.jpg
-summary: Old fashioned sugar dusted doughnuts. Better than any store bought doughnuts.
-slug: doughnuts
+tags: cocaina
+thumbnail: img/coce.jpg
+summary: Old fashioned cocaina.
+slug: cocaina
 ---
 
-__Ingredients__
+__efnasambönd__
 
 + 4 cups bread flour
 + 2 tblspoon sugar
