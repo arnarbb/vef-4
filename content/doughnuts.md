@@ -2,7 +2,7 @@
 title: Old Fashioned cocina
 date: 2019-04-14
 tags: cocaina
-thumbnail: img/coce.jpg
+thumbnail: img/FigHamStarter.jpg
 summary: Old fashioned cocaina.
 slug: cocaina
 ---

@@ -1,35 +1,104 @@
 body {
-  background-color: #06495f;
+  background-color: #D7D1BB;
 }
 
-body .top {
-  color: white;
-  font-size: xxx-large;
+body .upi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  padding: 0;
 }
 
-body .botom {
+body .upi .utanum1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25%;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+body .upi .utanum1 div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: rgba(230, 18, 177, 0.637);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 0px 10px;
+}
+
+body .upi .utanum2 {
+  width: 75%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+body .upi .utanum2 .ut {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+body .upi .ut:hover {
+  cursor: pointer;
+  background-image: -webkit-gradient(linear, right top, left top, from(#c4c0b3), to(#D7D1BB));
+  background-image: linear-gradient(to left, #c4c0b3, #D7D1BB);
+}
+
+body .upi .ut {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .upi .ut img {
+  margin: 2px;
+  height: auto;
+  width: auto;
+}
+
+body .upi .botom {
   width: 100%;
   -webkit-column-count: 3;
           column-count: 3;
 }
 
-img {
+body img {
   width: 50%;
 }
 
-img {
+body .cardd {
+  width: 25%;
+}
+
+body .efripartur .efragrid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: 1fr;
+      grid-template-rows: 1fr;
+}
+
+body img {
   width: 100%;
 }
 
 @media only screen and (max-width: 1000px) {
-  .cardd {
-    width: 50%;
+  body .cardd {
+    width: 25%;
   }
 }
 
-@media only screen and (max-width: 600px) {
-  .cardd {
-    width: 100%;
+@media only screen and (max-width: 800px) {
+  body .cardd {
+    width: 50%;
   }
 }
 /*# sourceMappingURL=style.css.map */

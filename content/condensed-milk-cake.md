@@ -2,12 +2,12 @@
 title: crystal meth
 date: 2019-04-15
 tags: rock hard
-thumbnail: img/crystal.jpg
+thumbnail: ../output/img/bread.jpg
 summary: cristal
 slug: criistal
 ---
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Methamphetamine.png/345px-Methamphetamine.png)
+![alt text](../output/img/bread.jpg)
 
 __áhrif__
 

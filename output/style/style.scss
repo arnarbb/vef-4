@@ -1,10 +1,60 @@
 body{
-    background-color: rgb(6, 73, 95);
+    background-color: #D7D1BB;
    
-    .top{
-        color: white;
-        font-size: xxx-large;
-    }
+    .upi {
+      // border: solid red 1px;
+      display: flex;
+      margin: 0;
+      padding: 0;
+      .utanum1{
+        
+        display: flex;
+        width: 25%;
+        justify-content: space-evenly;        
+        // border: 1px solid black;
+        div{
+          display: flex;
+          color: rgba(230, 18, 177, 0.637);
+          font-size: 30px;
+          font-weight: bold;
+          padding: 0px 10px;
+          // border: green solid 1px;
+        }
+      }  
+
+      .utanum2{
+        
+        width: 75%;
+        display: flex;
+        justify-content: space-evenly;
+        
+        // border: 1px solid black;
+        .ut{
+          
+          font-size: 130%;
+          font-weight: bold;
+          
+          // border: green solid 1px;
+          
+        }
+      } 
+      .ut:hover{
+        cursor: pointer;
+        background-image: linear-gradient(to left, rgb(196, 192, 179), #D7D1BB) ;
+      }  
+      .ut{
+        
+        img{
+          margin: 2px;
+          
+          height: auto;
+          width: auto ;
+        }
+
+        display: flex;
+       
+      }
+    
     
     .botom{
         width: 100%;
@@ -13,9 +63,26 @@ body{
 }
 
 
+
 img{
   width: 50%;
 }
+
+.cardd {
+  width: 25%;
+}
+
+.efripartur{
+  .efragrid{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows: 1fr;   
+    
+  }
+  
+ 
+}
+
 
 
 
@@ -26,12 +93,13 @@ img {
 }
 @media only screen and (max-width: 1000px) {
     .cardd {
-      width: 50%;
+      width: 25%;
     }
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 800px) {
     .cardd {
-      width: 100%;
+      width: 50%;
     }
   }
+}

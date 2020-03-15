@@ -1,21 +1,24 @@
 
 {% extends "layout.html" %}
 
+
 {% block content %}
 
-<center><h1 class="top">efni</h1></center>
+
 
 <div class="flex three demo" >
 
 {% for post in posts %}
 
     <div class="cardd">
-
+        <a class="button" href="posts/{{ post.slug }}.html">
         <article class="card" >
-            <header>
-                <img src="{{ post.thumbnail }}">
-            </header>
-        <footer>
+            
+                <header>
+                    <img src="{{ post.thumbnail }}">
+                </header>
+            
+        <!-- <footer>
                 <h2>{{ post.title }}</h2>
                 <small>{{ post.date }}</small>
                 <p>
@@ -27,10 +30,10 @@
                 {% for tag in list_of_tags %}
                     <button class="shyButton mybutton">{{ tag }}</button>
                 {% endfor %}
-            </footer>
+            </footer> -->
             
         </article>
-
+    </a>
     </div>
 
 <!-- 

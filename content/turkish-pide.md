@@ -2,7 +2,7 @@
 title: LSD
 date: 2019-04-12
 tags: small, light
-thumbnail: img/lsd.jpg
+thumbnail: img/desserts-hero.jpg
 summary: LSD
 slug: frendly
 ---
